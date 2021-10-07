@@ -1,0 +1,3 @@
+[submodule "BulkStrike"]
+	path = BulkStrike
+	url = https://github.com/Silv3rHorn/BulkStrike.git
